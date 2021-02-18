@@ -2,7 +2,9 @@
 title: "Introduction"
 ---
 
-# Documentation for [TerrabaseDB](https://terrabasedb.com)
+# Documentation for TerrabaseDB
+
+> **Note:** All these docs are now in an archived state. They only exist to help existing TerrabaseDB users and will be removed in the future. The latest documentation is available at [https://docs.skybasedb.com](https://docs.skybasedb.com)
 
 Welcome to TerrabaseDB's docs! You will find information about how you can get started with TDB, installation options, configuration and clients.
 
